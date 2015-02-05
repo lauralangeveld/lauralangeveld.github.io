@@ -93,51 +93,46 @@ a img {
 	border: 0;
 }
 
-.menucontent {
-	background-color: transparent;
+/* --- AANPASSINGEN HIERONDER ---- */
+
+body{
+	font-family: Century Gothic, Arial; 
+}
+
+nav{
 	width: 100%;
-	height: 80%;
-
+	height:150px;
+	background: #000000;
+	text-align:center;
 }
 
-#menu img{
-	display: inline;
-	margin: 0;
-	width:10%;
-	height:8%;
+.logo{
+	background:#000000 url("uva.gif") no-repeat;
+	background-size: 150px 150px;
 	float:left;
+	height:150px;
+	width:150px;
+	display:block;
 }
 
-#menu ul {
-    list-style-type: none;  
-	font-size: 20px;
-	text-align: center;
-	background-color: black;
-	padding: 45px;
-} 
-
-#menu ul li {
-	display: inline;
-	margin:5px;
+nav a{
+	font-size:25px;
+	padding: 0 45px;
+	color:#FFFFFF;
+	text-decoration:none;
+	line-height:150px;
 }
 
-#menu ul li  img{ 
-    display: inline;  
-    margin: 0;  
+nav a:first-child{
+	padding-left:0;
 }
 
-#menu ul li a {  
-    font-family: Century Gothic, Arial;  
-    color: white;
-	text-decoration: none;
-	padding: 0 20px;
+nav a:last-child{
+	padding-right:0;
 }
 
-.text_border {
-	border-style: dotted;
-    border-width: 4px;
-	margin-left: 300px;
-	margin-right:300px;
+.content{
+	padding: 20px 0;
 }
 
 .weekoverzicht ul{
@@ -148,7 +143,6 @@ a img {
 
 
 .weekoverzicht ul li a{
-	font-family: Century Gothic, Arial;  
 	font-size: 20px;
     color: black;
 	text-decoration: none;
@@ -156,20 +150,28 @@ a img {
 }
 
 h1 {
-	font-family: Century Gothic, Arial; 
 	font-size: 30px;
     color: black;
 	text-align: center;
 	text-decoration: none;
+	padding: 10px;
+	margin-bottom: 10px;
 }
 
-p {
+.content ul li p {
 	font-family: Century Gothic, Arial;
 	font-size: 15px;
     color: black;
 	text-align: center;
 	text-decoration: none;
 	margin:45px;
+}
+
+.text_border {
+	border-style: dotted;
+    border-width: 4px;
+	margin-left: 300px;
+	margin-right:300px;
 }
 
 #br_4 {
