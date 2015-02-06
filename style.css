@@ -135,14 +135,25 @@ nav a:last-child{
 	padding: 20px 0;
 }
 
-.weekoverzicht ul{
+.content p {
+	font-size: 15px;
+    color: black;
 	text-align: center;
-	list-style-type: none;
-	padding: 5px;
+	text-decoration: none;
+	margin:45px;
 }
 
+.content ul{
+	text-align: center;
+	list-style-type: none;
+	padding: 0 20px;
+}
 
-.weekoverzicht ul li a{
+.content ul li{
+	margin: 10px;
+}
+
+.content ul li a{
 	font-size: 20px;
     color: black;
 	text-decoration: none;
@@ -158,26 +169,9 @@ h1 {
 	margin-bottom: 10px;
 }
 
-.content ul li p {
-	font-family: Century Gothic, Arial;
-	font-size: 15px;
-    color: black;
-	text-align: center;
-	text-decoration: none;
-	margin:45px;
-}
-
 .text_border {
 	border-style: dotted;
     border-width: 4px;
 	margin-left: 300px;
 	margin-right:300px;
-}
-
-#br_4 {
-	padding-top: 35px;
-}
-
-#br_8 {
-	padding-top:40px;
 }
