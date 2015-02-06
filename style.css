@@ -160,6 +160,11 @@ nav a:last-child{
 	padding: 0 20px;
 }
 
+.content ul iframe{
+	height: 360px;
+	width: 330px;
+}
+
 h1 {
 	font-size: 30px;
     color: black;
