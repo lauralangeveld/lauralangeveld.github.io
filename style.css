@@ -140,7 +140,7 @@ nav a:last-child{
     color: black;
 	text-align: center;
 	text-decoration: none;
-	margin:45px;
+	margin:30px;
 }
 
 .content ul{
@@ -150,7 +150,7 @@ nav a:last-child{
 }
 
 .content ul li{
-	margin: 10px;
+	margin: 20px;
 }
 
 .content ul li a{
