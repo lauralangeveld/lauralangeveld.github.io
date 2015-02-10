@@ -115,6 +115,14 @@ nav{
 	display:block;
 }
 
+.pic_1{
+	background: url("sunset.jpg") no-repeat;
+	float: center;
+	height: 400px;
+	width: 700px;
+	display: block;
+}
+
 nav a{
 	font-size:25px;
 	padding: 0 45px;
