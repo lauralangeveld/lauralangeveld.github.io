@@ -118,18 +118,23 @@ nav{
 .pic_1{
 	background: url("sunset.jpg") no-repeat;
 	background-size: 600px 400px;
+	float: left;
 	height: 400px;
 	width: 700px;
 	display: block;
+	margin-left: 35px;
 }
 
 .pic_2{
 	background: url("sunset-for-web-3.gif") no-repeat;
 	background-size: 600px 400px;
+	padding-top: 10px;
 	float: right;
 	height: 400px;
 	width: 700px;
 	display: block;
+	margin: -65px;
+	margin-top: 0px;
 }
 
 nav a{
@@ -164,7 +169,6 @@ nav a:last-child{
 	text-align: center;
 	list-style-type: none;
 	padding: 0 20px;
-
 }
 
 .content ul li{
