@@ -147,6 +147,18 @@ nav{
 	margin-left: 35px;
 }
 
+.pic_4{
+	background: url("mijnstudieresultaten.jpg") no-repeat;
+	background-size: 600px 400px;
+	padding-top: 10px;
+	float: right;
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin: -65px;
+	margin-top: 0px;
+}
+
 nav a{
 	font-size:25px;
 	padding: 0 45px;
