@@ -137,6 +137,16 @@ nav{
 	margin-top: 0px;
 }
 
+.pic_3{
+	background: url("homepage.jpg") no-repeat;
+	background-size: 600px 400px;
+	float: left;
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin-left: 35px;
+}
+
 nav a{
 	font-size:25px;
 	padding: 0 45px;
