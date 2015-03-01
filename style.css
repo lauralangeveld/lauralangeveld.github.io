@@ -191,6 +191,11 @@ nav{
 	margin: 35px;
 }
 
+.portfolio_foto{
+	background: url{"laura.jpg") no-repeat;
+	float:left;
+}
+
 nav a{
 	font-size:25px;
 	padding: 0 45px;
@@ -248,11 +253,4 @@ h1 {
 	text-decoration: none;
 	padding: 30px;
 	margin-bottom: 10px;
-}
-
-.text_border {
-	border-style: dotted;
-    border-width: 4px;
-	margin-left: 300px;
-	margin-right:300px;
 }
