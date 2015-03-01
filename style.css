@@ -191,7 +191,15 @@ nav{
 	margin: 35px;
 }
 
-
+.profiel_foto{
+	background: url("laura.jpg") no-repeat;
+	background-size: 600px 400px;
+	height: 400px;
+	width: 700px;
+	display: block;
+	float: left;
+	margin: 35px;
+}
 
 nav a{
 	font-size:25px;
