@@ -237,6 +237,10 @@ nav a:last-child{
 	margin: 20px;
 }
 
+.content ul li p{
+	margin: 20px;
+}
+
 .content ul li a{
 	font-size: 20px;
     color: black;
