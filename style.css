@@ -193,12 +193,10 @@ nav{
 
 .profiel_foto{
 	background: url("laura.jpg") no-repeat;
-	background-size: 600px 400px;
-	height: 400px;
-	width: 700px;
-	display: block;
-	float: left;
-	margin: 35px;
+	background-size: 300px 300px;
+	height: 300px;
+	width: 300px;
+	margin-left: 143px;
 }
 
 nav a{
@@ -224,9 +222,9 @@ nav a:last-child{
 .content p {
 	font-size: 15px;
     color: black;
-	text-align: center;
 	text-decoration: none;
-	margin:185px;
+	margin-left: 382px;
+	margin-top: -183px;
 }
 
 .content ul{
