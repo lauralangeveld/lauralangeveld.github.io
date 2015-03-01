@@ -159,6 +159,36 @@ nav{
 	margin-top: 0px;
 }
 
+.pic_5{
+	background: url("homepagina_website.png") no-repeat;
+	background-size: 600px 400px;
+	float: left;
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin-left: 35px;
+}
+
+.pic_6{
+	background: url("ik_wil_mijn_was_afleveren.png") no-repeat;
+	background-size: 600px 400px;
+	padding-top: 10px;
+	float: right;
+	height: 400px;
+	width: 700px;
+	display: block;
+	margin: -65px;
+	margin-top: 0px;
+}
+
+.pic_7{
+	background: url("ik_wil_mijn_was_ophalen.png") no-repeat;
+	background-size: 600px 400px;
+	height: 400px;
+	width: 700px;
+	display: block;
+}
+
 nav a{
 	font-size:25px;
 	padding: 0 45px;
