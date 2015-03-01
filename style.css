@@ -187,6 +187,7 @@ nav{
 	height: 400px;
 	width: 700px;
 	display: block;
+	float: left;
 }
 
 nav a{
