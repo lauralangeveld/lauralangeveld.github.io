@@ -257,7 +257,7 @@ nav a:last-child{
 	
 }
 
-h1 {
+h1{
 	font-size: 30px;
     color: black;
 	text-align: center;
@@ -265,6 +265,12 @@ h1 {
 	padding: 30px;
 	margin-bottom: 10px;
 }
+
+a:hover {
+    color: gray;
+	opacity: 0.3px;
+}
+
 
 
 
