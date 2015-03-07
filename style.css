@@ -191,6 +191,17 @@ nav{
 	margin: 35px;
 }
 
+.pic_8{
+	background: url("voorbeeld.jpg") no-repeat;
+	background-size: 400px 600px;
+	float: left;
+	height: 400px;
+	width: 600px;
+	display: block;
+	margin-left: 357px;
+	background-size: cover;
+}
+
 .profiel_foto{
 	background: url("laura.jpg") no-repeat;
 	background-size: 300px 300px;
