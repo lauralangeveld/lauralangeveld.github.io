@@ -165,7 +165,7 @@ nav{
 }
 
 nav a{
-	font-size:25px;
+	font-size:23px;
 	padding: 0 45px;
 	color:#FFFFFF;
 	text-decoration:none;
@@ -204,6 +204,12 @@ nav a:last-child{
 
 .content ul li p{
 	margin: 20px;
+}
+
+.content ul li p a{
+	font-size: 15px;
+	color: #FA5858;
+	margin: 0 auto;
 }
 
 .content ul li a{
